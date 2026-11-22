@@ -52,4 +52,5 @@ Width:  24HP
 Depth:  33 mm
 
 ### YouTube video
-TBD
+[Eurorack DIY: 707 Drums - The Voice Board (ep1)](https://youtu.be/Pr6guDPABbc)  
+[Eurorack DIY: 707 Drums - The Main Board (ep2)](https://youtu.be/YWh-ssBz8bM)
